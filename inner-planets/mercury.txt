@@ -5,3 +5,4 @@ Facts about Mecury:
 - Mercury has extreme temperatures, reaching about 430°C during the day and dropping to around −180°C at night.
 - Mercury has almost no atmosphere, which is why it cannot trap heat.
 - Mercury has no moons or rings orbiting it.
+- Mercury has water ice trapped in permanently shadowed craters near its poles, even though the planet is extremely close to the Sun.
