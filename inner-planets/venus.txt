@@ -5,3 +5,4 @@ _ Venus has a very slow rotation, so one day on Venus is longer than one year on
 _ Venus spins in the opposite direction of most planets, meaning the Sun would rise in the west and set in the east.
 _ Venus is similar in size to Earth, which is why it is often called Earth’s twin.
 - Venus has thick clouds made mostly of sulfuric acid.
+- Venus has no seasons because its axis is tilted very little compared to Earth.
